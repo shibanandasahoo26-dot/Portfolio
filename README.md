@@ -1,2 +1,2 @@
 # Portfolio
-My first portfolio designing.
+Web intern portfolio demo practice 
